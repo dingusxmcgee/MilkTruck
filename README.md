@@ -11,3 +11,10 @@
 
  Concept by Drmmr from 40% discord
  Additional case components by Jake from P3Dstore
+
+
+ *All files are provided as is and I accept no liability if they aren't very good.*
+
+*These files were specifically designed to be milled by a CNC machine. Any other fabrication method may require modification*
+
+*Licensed with Unlicense*
